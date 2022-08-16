@@ -1,18 +1,18 @@
-/* :root {
+:root {
     --primary-text-color: #fff;
     --secondary-text-color: #e1e1e1;
     --accent-color: #c865e6;
     --primary-background-color: #1b1414;
     --secondary-background-color: #272020;
-} */
+}
 
-:root {
+/* :root {
     --primary-text-color: #080808;
     --secondary-text-color: #4d4d4d;
     --accent-color: #c865e6;
     --primary-background-color: #fff;
     --secondary-background-color: #fff2ff;
-}
+} */
 
 * {
     margin: 0px;
